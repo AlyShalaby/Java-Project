@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Store\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=storeName
+comment1.target=Store(java.lang.String)
+comment1.text=\r\n\ Constructor\ to\ initialize\ Store\ details.\r\n\ @param\ storeName\ The\ name\ of\ the\ store.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStoreName()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=member
+comment4.target=void\ memberRegister1(Member)
+comment4.text=\r\n\ Registers\ a\ member\ who\ enters\ the\ store.\r\n\ @param\ member\ The\ member\ entering\ the\ store.\r\n
+comment5.params=name\ id\ pinNumber
+comment5.target=void\ memberRegister2(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Registers\ a\ member\ using\ details\ and\ creates\ a\ temporary\ Member\ object.\r\n\ @param\ name\ The\ name\ of\ the\ member.\r\n\ @param\ id\ The\ unique\ ID\ of\ the\ member.\r\n\ @param\ pinNumber\ The\ 4-digit\ PIN\ of\ the\ member.\r\n
+comment6.params=amount\ member
+comment6.target=void\ checkout(int,\ Member)
+comment6.text=\r\n\ Handles\ checkout\ for\ the\ given\ member.\r\n\ @param\ amount\ The\ payment\ provided\ by\ the\ member.\r\n\ @param\ member\ The\ member\ making\ the\ purchase.\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Item\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ price
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ getPriceString()
+comment4.text=\r\n\ Returns\ the\ price\ in\ a\ user-friendly\ format\ (e.g.,\ "150p").\r\n\ @return\ The\ price\ as\ a\ formatted\ string.\r\n
+comment5.params=pence
+comment5.target=java.lang.String\ convertPenceToString(int)
+numComments=6
